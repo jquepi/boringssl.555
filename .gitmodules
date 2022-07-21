@@ -1,0 +1,3 @@
+[submodule "krb5"]
+	path = krb5
+	url = krb5
